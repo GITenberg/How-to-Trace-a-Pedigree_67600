@@ -1,0 +1,36 @@
+_repo: How-to-Trace-a-Pedigree_67600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crofton, Helen Augusta
+    alias: Crofton, H. A.
+    gutenberg_agent_id: '54355'
+    url: http://www.gutenberg.org/2009/agents/54355
+description: ''
+gutenberg_issued: '2022-03-10'
+identifiers:
+  gutenberg: '67600'
+  lccn: a11002207
+language: en
+pgterms:marc905: 20210706175000crofton
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Elliot Stock,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Genealogy'
+- !lcc 'CS'
+- GITenberg
+tableOfContents: First steps in pedigree-hunting -- Will-searching -- Published sources
+  of information -- Miscellaneous MS. documents of value to the searcher -- How to
+  make a family tree -- Additional notes on pedigree-hunting in London -- The pedigree-hunter
+  in Ireland -- The pedigree-hunter in Scotland and the provinces -- The will-searcher
+  in England -- An additional list of publications which may be useful when tracing
+  a pedigree -- The pains and pleasures of pedigree-hunting -- How to save expense
+  in pedigree-hunting -- Last words.
+title: How to Trace a Pedigree
+url: http://www.gutenberg.org/ebooks/67600
