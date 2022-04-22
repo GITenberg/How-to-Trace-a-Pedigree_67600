@@ -1,5 +1,8 @@
 _repo: How-to-Trace-a-Pedigree_67600
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67600-h/images/cover.jpg
 creator:
   author:
     agent_name: Crofton, Helen Augusta
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54355'
     url: http://www.gutenberg.org/2009/agents/54355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67600#How-to-Trace-a-Pedigree
 gutenberg_issued: '2022-03-10'
 identifiers:
   gutenberg: '67600'
